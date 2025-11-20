@@ -1,5 +1,5 @@
-# XML-DTD-XSD-XPath-XSL-SVG 
-<h1> METEO </h1> 
+# Programmation procédurale Java
+<h1> gestion de Stock </h1> 
 <img src="captures/1.png" />
 <hr/>
 <h3> Histogramme</h3>
